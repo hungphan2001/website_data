@@ -1,5 +1,4 @@
-let data = [
-  {
+{
     dataName:'gsi',
     link: 'https://www.pling.com/p/1507396/',
     image: 'assets/img/devices/jd2019.jpg',
@@ -444,4 +443,3 @@ let data = [
     update: 'Build Date:2021-16-07',
     version: 'Version: 2.7.5',
   },
-]
